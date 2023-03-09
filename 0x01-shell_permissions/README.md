@@ -9,3 +9,4 @@
 (9) Script 9: To create a script that sets permission to the file hello
 (10) Script 10: To create a script that sets the mode of the file to rwxr-x-wx
 (11) Script 11: To create a script that set file hello to olleh
+(12) Script 12: To create a script that permit all subdirectories
