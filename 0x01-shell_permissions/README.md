@@ -4,3 +4,4 @@
 (4) Script 4: To create a script that changes the owner of a file hello to the user betty
 (5) Script 6: To create a script that creates an empty file
 (6) Script 7: To create a script that adds execute permission to the owner of  the file hello
+(7) Script 8: To create a script that adds execute permission to the owner and group owner, and read permission to other user of the file hello
