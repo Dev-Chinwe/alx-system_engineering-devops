@@ -6,3 +6,4 @@
 (6) Script 7: To create a script that adds execute permission to the owner of  the file hello
 (7) Script 8: To create a script that adds execute permission to the owner and group owner, and read permission to other user of the file hello
 (8) Script 9: To create a script that adds execution permission to everybody
+(9) Script 10: To create a script that sets permission to the file hello
