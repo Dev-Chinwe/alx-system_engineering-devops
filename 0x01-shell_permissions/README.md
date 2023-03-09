@@ -5,3 +5,4 @@
 (5) Script 6: To create a script that creates an empty file
 (6) Script 7: To create a script that adds execute permission to the owner of  the file hello
 (7) Script 8: To create a script that adds execute permission to the owner and group owner, and read permission to other user of the file hello
+(8) Script 9: To create a script that adds execution permission to everybody
