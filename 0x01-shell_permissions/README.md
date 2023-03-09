@@ -7,3 +7,5 @@
 (7) Script 8: To create a script that adds execute permission to the owner and group owner, and read permission to other user of the file hello
 (8) Script 9: To create a script that adds execution permission to everybody
 (9) Script 10: To create a script that sets permission to the file hello
+(10) Script 11: To create a script that sets the mode of the file to rwxr-x-wx
+
