@@ -10,3 +10,4 @@
 (10) Script 10: To create a script that sets the mode of the file to rwxr-x-wx
 (11) Script 11: To create a script that set file hello to olleh
 (12) Script 12: To create a script that permit all subdirectories
+(13) Script 13: To create a script that creates a directory called my_dir
