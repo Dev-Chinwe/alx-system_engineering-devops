@@ -4,3 +4,4 @@
 4. Task 3: To create a script that displays the content of two files
 5. Task 4: To create a script that displays the last 10 lines of a file
 6. Task 5: To create a script that displays the first 10 lines of a file
+7. Task 6: To create a script that displays the third line of a file
