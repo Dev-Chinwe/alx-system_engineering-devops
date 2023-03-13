@@ -6,3 +6,4 @@
 6. Task 5: To create a script that displays the first 10 lines of a file
 7. Task 6: To create a script that displays the third line of a file
 8. Task 7: To create a script that with a particular Name
+9. Task 8: To create  a script that writes into file
