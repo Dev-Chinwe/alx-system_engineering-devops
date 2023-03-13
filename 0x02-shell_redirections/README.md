@@ -8,3 +8,4 @@
 8. Task 7: To create a script that with a particular Name
 9. Task 8: To create  a script that writes into file
 10. Task 9: To duplicate a file
+11. Task 10: To find any javascript file and delete
