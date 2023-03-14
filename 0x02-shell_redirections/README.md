@@ -24,3 +24,4 @@
 24. Task 23: To create a script that finds all empty files, directories and sub directories
 25. Task 24: To create a file, directory and subdirectory with .gif extension
 26. Task 25: To create a script that decodes acrostic
+27. Task 26: To create a script that logs TSV
