@@ -3,3 +3,4 @@
 3. Task 2: To create a script that loks at the last directory
 4. Task 3: To  create a script that count the number of directory
 5. Task 4: To create a script that list enviromental variable
+6. Task 5: To create a script that list all local variables
