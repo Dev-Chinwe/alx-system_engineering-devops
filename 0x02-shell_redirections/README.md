@@ -20,3 +20,4 @@
 20. Task 19: To create a script that replace all char a & c to z & e
 21. Task 20: To create a script that removes c &  C from the input
 22. Task 21: To create a script that reverses it input
+23. Task 22: To create a script that displays users and their home directories
