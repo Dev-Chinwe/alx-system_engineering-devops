@@ -22,3 +22,4 @@
 22. Task 21: To create a script that reverses it input
 23. Task 22: To create a script that displays users and their home directories
 24. Task 23: To create a script that finds all empty files, directories and sub directories
+25. Task 24: To create a file, directory and subdirectory with .gif extension
