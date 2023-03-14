@@ -19,3 +19,4 @@
 19. Task 18: To create a script that displays all lines of a file
 20. Task 19: To create a script that replace all char a & c to z & e
 21. Task 20: To create a script that removes c &  C from the input
+22. Task 21: To create a script that reverses it input
