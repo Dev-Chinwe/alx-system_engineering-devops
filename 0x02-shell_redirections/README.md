@@ -13,3 +13,4 @@
 13. Task 12: To create a script that displays 10 newest line
 14. Task 13: To create a script that prints only words that appear exactly once
 15. Task 14: To create a script containing words that have pattern
+16. Task 15: To create a script that display the pattern bin
