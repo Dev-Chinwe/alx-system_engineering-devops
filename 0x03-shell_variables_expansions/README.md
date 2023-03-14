@@ -6,3 +6,4 @@
 6. Task 5: To create a script that list all local variables
 7. Task 6: To create a script that prints new local variable
 8. Task 7: To create a script that create a new global variable
+9. Task 8: To create a script that prints addition of a number and value stored in env variable
