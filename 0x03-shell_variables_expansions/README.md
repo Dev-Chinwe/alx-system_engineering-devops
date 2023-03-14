@@ -8,3 +8,4 @@
 8. Task 7: To create a script that create a new global variable
 9. Task 8: To create a script that prints addition of a number and value stored in env variable
 10. Task 9: To create a script that prints the result of POWER/DIVIDE
+11. Task 10: To create a script that prints the result of BREATH to the power of love
