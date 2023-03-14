@@ -12,3 +12,4 @@
 12. Task 11: To search for a directory
 13. Task 12: To create a script that displays 10 newest line
 14. Task 13: To create a script that prints only words that appear exactly once
+15. Task 14: To create a script containing words that have pattern
