@@ -5,3 +5,4 @@
 5. Task 4: To create a script that list enviromental variable
 6. Task 5: To create a script that list all local variables
 7. Task 6: To create a script that prints new local variable
+8. Task 7: To create a script that create a new global variable
