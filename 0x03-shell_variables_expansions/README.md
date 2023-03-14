@@ -7,3 +7,4 @@
 7. Task 6: To create a script that prints new local variable
 8. Task 7: To create a script that create a new global variable
 9. Task 8: To create a script that prints addition of a number and value stored in env variable
+10. Task 9: To create a script that prints the result of POWER/DIVIDE
