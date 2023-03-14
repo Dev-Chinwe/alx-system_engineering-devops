@@ -9,3 +9,4 @@
 9. Task 8: To create a script that prints addition of a number and value stored in env variable
 10. Task 9: To create a script that prints the result of POWER/DIVIDE
 11. Task 10: To create a script that prints the result of BREATH to the power of love
+12. Task 11: To create a script that converts a number from base two to base Ten
