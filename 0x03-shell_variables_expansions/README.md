@@ -14,3 +14,4 @@
 14. Task 13: To create a script that prints a number with two decimal places
 15. Task 14: To create a script that converts number from base 10 to base 16
 16. Task 15: To create a script that encodes and decodes text using rot13
+17. Task 16: To create a script that prints first line and every other line
