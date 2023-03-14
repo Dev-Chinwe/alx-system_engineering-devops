@@ -16,3 +16,4 @@
 16. Task 15: To create a script that display the pattern bin
 17. Task 16:To create a file that will display the pattern root
 18. Task 17: To create a script that display all files not containing bin
+19. Task 18: To create a script that displays all lines of a file
