@@ -15,3 +15,5 @@
 15. Task 14: To create a script that converts number from base 10 to base 16
 16. Task 15: To create a script that encodes and decodes text using rot13
 17. Task 16: To create a script that prints first line and every other line
+18. Task 17: To create a script that adds two numbers stored in enviromental variable
+
